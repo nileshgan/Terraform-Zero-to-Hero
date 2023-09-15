@@ -26,7 +26,7 @@ Understand the lifecycle of terraform. What is terraform `init`, `plan` and `app
 
 Take your skills up a notch by provisioning an EC2 instance on AWS using Terraform. Explore attributes like instance type, AMI, and tags to customize your instance.
 
-#### Terraform State Basics
+#### Terraform State Basics ####
 
 Understand the importance of Terraform state files. Learn about desired and current states, and how Terraform manages these states to ensure infrastructure consistency.
 
